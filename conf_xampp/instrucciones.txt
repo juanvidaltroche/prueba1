@@ -1,0 +1,2 @@
+1. copiar el archivo index(htdocs).php en la siguiente direccion C:\xampp\htdocs  y reemplazar por el archivo index.php
+2. copiar el archivo index(xampp).php en la siguiente direccion C:\xampp\htdocs\xampp y reemplazar por el archivo index.php

@@ -1,0 +1,14 @@
+.classname {
+background:-moz-linear-gradient(center top , #79BBFF 5%, #378DE5 100%) repeat scroll 0 0 #79BBFF;
+border:1px solid #84BBF3
+border_radius:6px 6px 6px 6px;
+box-shadow:0 1px 0 0 #BBDAF7 inset;
+color:#FFFFFF;
+diesplay:inlline-block;
+fon-family:arial;
+font-size:15px;
+font-weight:bold;
+padding:6px 24px;
+text-decoration:none;
+text-shadow:1px 1px 0 #528ECC;
+}
